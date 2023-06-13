@@ -1,0 +1,39 @@
+.img1{
+    width: 300px;
+}
+.img2{
+    width: 1600px;
+    
+}
+.navbar-dark{
+    background-color:rgb(0, 0, 0);
+}
+body{
+    background-image:url("../img/desktop-wallpaper-dollar-one-roll-money-money-dollar.jpg");
+    background-position-x: center;
+    background-size: cover;
+    height: 100vh;
+}
+.form-box{
+    width: 300px;
+    height: 300px;
+    background:rgba(0, 0, 0, 0.448);
+    margin: 12% auto;
+    padding: 50PX 0;
+    color: rgba(255, 217, 0, 0.756);
+
+}
+.form-box2{
+    background: white;
+}
+
+.d3{
+    /* width: 20%; */
+    padding:20px ;
+    margin:5px ;
+
+}
+.d8{
+    padding: 25px;
+}
+

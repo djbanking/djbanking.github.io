@@ -1,0 +1,33 @@
+body{
+    background-image:url("home2.jpg");
+    background-position-x: center;
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    font-size:  5rem;
+    font-style:normal;
+    color:goldenrod;
+    text-align: center;
+
+}
+
+
+
+.form-box{
+    width: 500px;
+    height: 500px;
+    background:rgba(0, 0, 0, 0.448);
+    margin: 12% auto;
+    padding: 50PX 0;
+    color: rgba(255, 217, 0, 0.756);
+}
+.d1{
+    padding: 25px;
+}
+.d2{
+    padding: 25px;
+}
+.d3{
+    padding: 25px;
+}

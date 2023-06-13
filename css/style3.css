@@ -1,0 +1,80 @@
+.img1{
+    width: 300px;
+}
+.img2{
+    width: 1600px;
+    
+}
+.navbar-dark{
+    background-color:rgb(0, 0, 0);
+}
+body{
+    background-image:url("../img/home2.jpg");
+    background-position-x: center;
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    font-size:  5rem;
+    font-style:normal;
+    color:goldenrod;
+    text-align: center;
+
+}
+h2{
+    font-size:  5rem;
+    font-style:normal;
+    color:goldenrod;
+    text-align: center;
+
+}
+.d1{
+    font-size:  2rem;
+    font-style:normal;
+    color: black;
+    text-align: center;
+
+}
+.d2{
+    font-size:  2rem;
+    font-style:normal;
+    color:goldenrod;
+    text-align: center;
+    padding: 1%;
+}
+.d3{
+    font-size:  2rem;
+    font-style:normal;
+    color: goldenrod;
+    text-align: center;
+    padding: 1%;
+}
+.d4{
+    font-size:  2rem;
+    font-style:normal;
+    color:goldenrod;
+    text-align: center;
+    padding: 1%;
+}
+.d5{
+    font-size:  2rem;
+    font-style:normal;
+    color: goldenrod;
+    text-align: center;
+    padding: 1%;
+}
+.d6{
+    font-size:  2rem;
+    font-style:normal;
+    color: goldenrod;
+    text-align: center;
+    padding: 1%;
+}
+.d8{
+    font-size:  2rem;
+    font-style:normal;
+    color: goldenrod;
+    text-align: center;
+}
+ 
+
